@@ -1,3 +1,4 @@
-# wxu2206
-
-Personal repository for my projects, notes, and configuration files. Serves as a small portfolio and central place to showcase code, experiments, and dotfiles.
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=wxu2206" height="165">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wxu2206" height="165">
+</p>
